@@ -1,0 +1,1 @@
+如果要运行某个程序 命令行确保有main文件，输入go run Solution*.go即可
